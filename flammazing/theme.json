@@ -1,0 +1,6 @@
+{
+  "editorVersion": "1.7.0",
+  "schemeVersion": "1.7.0",
+  "base": { "style": "oslo", "scheme": "normal.night" },
+  "definitions": { "POI.Icon.Size": 0, "POI.Label.Size": 0 }
+}
